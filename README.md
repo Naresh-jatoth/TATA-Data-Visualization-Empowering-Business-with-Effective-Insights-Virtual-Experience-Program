@@ -3,10 +3,15 @@
 
 The virtual experience programme is provided by Tata Insights and Quants (Tata iQ). It demonstrates how experts use tools like Power BI and Tableau to solve complex business problems and extract insights from large datasets. There are 4 modules in this virtual experience programme:
 
-Framing the Business Scenario
-Choosing the Right Visuals
-Creating Effective Visuals
-Communicating Insights and Analysis
+. Framing the Business Scenario
+
+. Choosing the Right Visuals
+
+. Creating Effective Visuals
+
+. Communicating Insights and Analysis
+
+
 Task 1 - Framing the Business Scenario Learn how to anticipate the questions your business leaders will need answers to
 
 Background info and context An online retail store has hired you to analyze their data and provide insights for the CEO and CMO. The goal is to identify key revenue drivers and evaluate business performance from both operational and marketing perspectives. Leadership is also looking for guidance on expansion opportunities, focusing on high-performing areas and demographic trends. Your insights will support strategic planning in an upcoming meeting next month.
